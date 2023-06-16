@@ -1,14 +1,12 @@
-<html>
 
-<body>
-<div style='display: flex; flex-direction: column; justify-content: center; align-items: center'>
-<h1>Jayder Caceres </h1>
-<h2> JavaScript FullStack Developer </h2>
-</div>
+<center><h1>Jayder Caceres </h1></center>
+<center><h2> JavaScript FullStack Developer </h2></center>
 
+<center>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+</center>
 
 ----
 
@@ -48,7 +46,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ----
-
-
-</body>
-</html>
