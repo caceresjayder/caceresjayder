@@ -1,6 +1,6 @@
 
-<center><h1>Jayder Caceres </h1></center>
-<center><h2> JavaScript FullStack Developer </h2></center>
+<center><h1>Jayder Caceres</h1></center>
+<center><h2>JavaScript FullStack Developer</h2></center>
 
 <center>
 
