@@ -1,3 +1,6 @@
+<html>
+
+<body>
 <div style='display: flex; flex-direction: column; justify-content: center; align-items: center'>
 <h1>Jayder Caceres </h1>
 <h2> JavaScript FullStack Developer </h2>
@@ -46,3 +49,6 @@
 
 ----
 
+
+</body>
+</html>
