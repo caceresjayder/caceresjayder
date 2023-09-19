@@ -1,6 +1,8 @@
 <div align="center">
 	<br>
+	<a href="#">
 		<img src="header.svg" width="800" height="600" alt="header">
+	</a>
 	<br>
 </div>
 
