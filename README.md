@@ -1,8 +1,6 @@
-<div align="center">
+<div align="center" width="100%">
 	<br>
-	<a href="https://github.com/caceresjayder/header.svg">
 		<img src="header.svg" width="100%" height="400" alt="header">
-	</a>
 	<br>
 </div>
 
