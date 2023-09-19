@@ -1,13 +1,8 @@
 <div align="center">
-	<br>
 	<a href="mailto:caceresjayder@gmail.com" style="pointer-events: none;">
 		<img src="header.svg" width="846" height="526" alt="header">
 	</a>
-	<br>
 </div>
-
-
-# Jayder Caceres
 
 ## FullStack Developer
 
