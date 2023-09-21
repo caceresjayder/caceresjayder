@@ -56,8 +56,8 @@
 
 ----
 
-[Go to top](#fullstack-developer)
-[Go to Frontend Technologies](#frontend)
-[Go to Backend Technologies](#backend)
-[Go to Databases Technologies](#databases)
+[Go to top](#fullstack-developer)<br>
+[Go to Frontend Technologies](#frontend)<br>
+[Go to Backend Technologies](#backend)<br>
+[Go to Databases Technologies](#databases)<br>
 [Go to Tools](#tools)
