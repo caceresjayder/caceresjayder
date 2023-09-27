@@ -54,6 +54,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![GIT](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git)</br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+### Projects
+
+<div align="center">
+	<a href="mailto:caceresjayder@gmail.com" style="pointer-events: none;">
+		<p>Gif Count Generator App</p>
+		<img src="gifapp.gif" loading="lazy" width="400" height="500" alt="header" style="border-radius: 10px;">
+	</a>
+</div>
+
+
 ----
 
 [Go to top](#fullstack-developer)<br>
