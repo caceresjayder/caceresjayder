@@ -56,14 +56,16 @@
 
 
 ### Projects
-
-<div align="center">
-	<a href="mailto:caceresjayder@gmail.com" style="pointer-events: none;">
-		<p>Gif Count Generator App</p>
-		<img src="gifapp.gif" loading="lazy" width="400" height="500" alt="header" style="border-radius: 10px;">
-	</a>
+<a href="https://gif-counter-app.vercel.app"> ![Gif Count Generator App](https://img.shields.io/badge/Gif%20Count%20Generator%20App-blue?style=for-the-badge) </a>
+<a href="https://quiz-app-alpha-seven.vercel.app"> ![Gif Count Generator App](https://img.shields.io/badge/Quiz%20App-00ccff?style=for-the-badge) </a>
+<div align="left" style="width: 400px; height: 500px">
+<a href="https://gif-counter-app.vercel.app" style="pointer-events: none;">
+<img src="gifapp.gif" loading="lazy" width="200" height="300" alt="header" style="border-radius: 10px;">
+</a>
+<a href="https://quiz-app-alpha-seven.vercel.app" style="pointer-events: none;">
+<img src="quizapp.gif" loading="lazy" width="200" height="300" alt="header" style="border-radius: 10px;">
+</a>
 </div>
-
 
 ----
 
@@ -71,4 +73,5 @@
 [Go to Frontend Technologies](#frontend)<br>
 [Go to Backend Technologies](#backend)<br>
 [Go to Databases Technologies](#databases)<br>
-[Go to Tools](#tools)
+[Go to Tools](#tools)<br>
+[Go to Projects](#projects)
