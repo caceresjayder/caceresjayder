@@ -13,7 +13,7 @@
 
 ----
 
-:briefcase: **~3 years in web develop as freelancer.**</br>
+:briefcase: **~5 years in web develop as freelancer.**</br>
 :globe_with_meridians: **I'm from Venezuela actually resident in Brazil.**</br>
 :speech_balloon: **I speak :us: :es: :brazil:**
 
